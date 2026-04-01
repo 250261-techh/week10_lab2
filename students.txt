@@ -1,0 +1,5 @@
+Ali Karimov 3.95 ComputerScience
+Vali Karimov 3.85 Economics
+Raxim Karimov 3.45 Mechatronics
+Jasur Karimov 3.35 CyberSecurity
+Botir Karimov 3.15 ComputerScience
